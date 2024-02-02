@@ -1,6 +1,3 @@
-#OK TEGO TU 
-# sueie rtaltaskdasdkasdk
-#fgndmgndfjgndjgdj
-#sdlfpslgmdkfgmdfkhmfgkhfgohhofglhofghofgl
+#ZMIANY ZMIANY
 for x in range(10):
     print("sranie do ryja")
