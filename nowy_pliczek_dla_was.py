@@ -1,0 +1,1 @@
+print("sranie do ryja")
